@@ -1,9 +1,9 @@
 # Sitio Web con GitHub
 
-## Crear una cuenta en GitHub
+## Proyectos
 [Crear cuenta](https://github.com/join?source_repo=nicolasserrano%2FCS)
 
-## Crear un repositorio
+## Clientes
 En Repositories, hacer clic en New
 
 ## Configurar GitHub Pages
