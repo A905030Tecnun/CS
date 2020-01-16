@@ -1,12 +1,12 @@
 # Sitio Web con GitHub
 
-## Crear una cuenta en GitHub
+## Proyectos
 [Crear cuenta](https://github.com/join?source_repo=nicolasserrano%2FCS)
 
-## Crear un repositorio
+## Clientes
 En Repositories, hacer clic en New
 
-## Configurar GitHub Pages
+## Sugerencias
 - Ir al repositorio, hacer clic en Settings
 - Ir al apartado "GitHub Pages"
 - En Source, seleccionar "master branch"
